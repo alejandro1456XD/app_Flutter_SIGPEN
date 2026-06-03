@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407146015368",
+    "project_id": "sigpen-pruebas",
+    "storage_bucket": "sigpen-pruebas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407146015368:android:e349e5964f20a9af2f8d3d",
+        "android_client_info": {
+          "package_name": "com.example.sigpen_cbba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBN-czNT4fGHXsgLHXU4WGc9jSlxKI_xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
